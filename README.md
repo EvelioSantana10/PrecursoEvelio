@@ -1,2 +1,1 @@
-# PrecursoEvelio
-Repositorio de prueba modulo 2 pecurso
+Este es un proyecto de pruba de como crear un repositorio y clonarlo
